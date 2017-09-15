@@ -1,0 +1,27 @@
+<resources>
+    <string name="AddLabelTag">Add Expense</string>
+    <string name="EditLabelTag"> Edit Expense</string>
+    <string name="DeleteLabelTag">Delete Expense</string>
+    <string name="ShowLabelTag">Show Expenses</string>
+
+    <string name="app_name">Expense App</string>
+    <string name="btnAddExpenseTag">Add Expense</string>
+    <string name="lblAddExpence">Add An Expense</string>
+    <string name="lblExpenseName">Expense Name</string>
+    <string name="lblCategory">Category</string>
+    <string name="lblAmount">Amount</string>
+    <string name="lblDate">Date</string>
+    <string name="lblReceipt">Receipt</string>
+    <string name="btnLblAddExpense">Add Expense</string>
+    <string name="btnLblEditExpense">Edit Expense</string>
+    <string name="lblbButtonSelectTag">Select Expense</string>
+    <string name="btnDeleteTag">Delete Expense</string>
+    <string name="btnShowExpenseTag">Show Expense</string>
+    <string name="btnFinishedTag">Finish</string>
+    <string name="btnSaveTag">Save</string>
+    <string name="btnCancleTag">Cancel</string>
+    <string name="btnRealDeleteTag">Delete</string>
+    <string name="lblTagDetailActivty">Expense Details</string>
+    <string name="btnFinishTab">Finish</string>
+    <string name="requiredFeilds">Please make sure to add all the details!</string>
+</resources>
